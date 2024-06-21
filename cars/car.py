@@ -46,7 +46,7 @@ import joblib
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 # Load the trained model
-model_path = 'tree.pkl'
+model_path = '/path/to/deployed/tree.pkl'
 clf = joblib.load(model_path)
 
 # Function to predict whether a car is suitable for purchase
