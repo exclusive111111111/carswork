@@ -1,0 +1,5 @@
+fastai==2.7.15
+openpyxl==3.0.10
+streamlit==1.35.0
+ipywidgets @ file:///C:/b/abs_5awapknmz_/croot/ipywidgets_1679394824767/work
+pandas==2.2.2
